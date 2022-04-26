@@ -1,0 +1,18 @@
+.wow {
+  width: 100px;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  border: 5px solid #0a5705;
+  width: 150px;
+  heigh: 150px;
+  align: center;
+}
+
+.center {
+  text-align: center;
+}
